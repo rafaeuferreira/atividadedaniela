@@ -1,5 +1,5 @@
 print ("hello world")
-def soma(numero1,numero2):
-    print(numero1 + numero2)
+def soma(numero1):
+    print(numero1 + numero1)
     
-soma(2,4)
+soma(2)
